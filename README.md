@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://beaulaekkablogrpublishingwebsite.netlify.app/)
-- Live Site URL: [Add live site URL here](https://beaulaekkablogrpublishingwebsite.netlify.app/)
+- Solution URL: [www.blogr.com](https://beaulaekkablogrpublishingwebsite.netlify.app/)
+- Live Site URL: [www.blogr.com](https://beaulaekkablogrpublishingwebsite.netlify.app/)
 
 ## My process
 
