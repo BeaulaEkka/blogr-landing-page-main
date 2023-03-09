@@ -56,7 +56,7 @@ Users should be able to:
 
 ### What I learned
 
-I really enjoyed this challenge. It has brused up my CSS selector, responsive workframes, background image set ups and javasctipt DOM.
+I really enjoyed this challenge. It has brushed up my CSS selector, responsive workframes, background image set ups and javasctipt DOM.
 
 To see how you can add code snippets, see below:
 
